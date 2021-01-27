@@ -1,0 +1,126 @@
+body {
+	background-color: #91BED6;
+	color: #000;
+	font-size: 22px;
+}
+
+h2 {
+	font-style: bold;
+	padding-top: 60px;
+}
+
+h5 {
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.titleMessage .heading p {
+	color: #000;
+    text-shadow: 3px 2px 5px rgba(0, 0, 0, 0.4);
+    font-weight: 80px;
+    letter-spacing: 3px;
+    text-align: center;
+
+}
+
+.titleMessage .heading .main {
+	font-size: 60px;
+	text-align: center;
+}
+
+.titleMessage .heading .sub {
+	font-size: 30px;
+}
+
+.titleMessage .heading .name {
+	font-size: 30px;
+}
+
+#navigation {
+	background-color: #fff;
+    padding: 10px 25px;
+    z-index: 100;
+    width: 100%
+}
+
+
+#navigation li {
+	padding: 0 14px;
+}
+
+#navigation li a {
+	color: #000;
+	font-size: 25px;
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+	color: #000;
+}
+
+
+.fixedNav #navigation {
+	position: fixed;
+	top: 0px;
+}
+
+.overviewSection {
+	background-color: #806CA5;
+	position: relative;
+	padding: 25px;
+	padding-left: 55px;
+	padding-bottom: 60px;
+
+}
+
+.discoverSection {
+	background-color: #430074;
+	position: relative;
+	padding: 25px;
+	padding-left: 55px;
+	padding-bottom: 60px;
+
+}
+
+.exploreSection {
+	background-color: #806CA5;
+	position: relative;
+	padding: 25px;
+	padding-left: 55px;
+	padding-bottom: 60px;
+
+}
+
+.testSection {
+	background-color: #430074;
+	position: relative;
+	padding: 25px;
+	padding-left: 55px;
+	padding-bottom: 60px;
+}
+
+.listenSection {
+	background-color: #806CA5;
+	position: relative;
+	padding: 25px;
+	padding-left: 55px;
+	padding-bottom: 60px;
+}
+
+.notesSection {
+	background-color: #430074;
+	position: relative;
+	padding: 25px;
+	padding-left: 55px;
+	padding-bottom: 60px;
+}
+
+
+
+.copyrightSection {
+	padding: 30px 5px;
+}
+
+.copyrightSection p {
+	margin: 0;
+}
